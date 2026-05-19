@@ -1,4 +1,5 @@
 # Hi there, I'm Kacper 👋
+# Here are my [projects](https://kacper-bak.dev/) :)
 
 Frontend Developer that building modern and user-friendly web applications.
 
@@ -15,3 +16,5 @@ Frontend Developer that building modern and user-friendly web applications.
 📍 Based in Norway  
 🥋 BJJ practitioner  
 🌍 Languages: Polish, English, Norwegian
+
+
