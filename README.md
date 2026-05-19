@@ -1,5 +1,5 @@
 # Hi there, I'm Kacper 👋
-# [Projects](https://kacper-bak.dev/) :)
+# [Projects](https://kacper-bak.dev/)
 
 Frontend Developer that building modern and user-friendly web applications.
 
