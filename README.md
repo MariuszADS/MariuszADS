@@ -11,7 +11,7 @@ Frontend Developer that building modern and user-friendly web applications.
 - Prisma
 - Node.js (learning backend)
 
-🚀 Currently working on fullstack projects, improving architecture skills and exploring Java.
+🚀 Currently working on fullstack projects.
 
 📍 Based in Norway  
 🥋 BJJ practitioner  
