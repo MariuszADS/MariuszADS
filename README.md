@@ -1,9 +1,9 @@
-# Hi there, I'm Kacper 👋
+# Hi there, I'm Kacper
 # [Projects](https://kacper-bak.dev/)
+Frontend Developer that building web apps.
+Currently working on fullstack projects.
 
-Frontend Developer that building modern and user-friendly web applications.
-
-💻 Main stack:
+I deal with:
 - React
 - TypeScript
 - JavaScript
@@ -11,10 +11,7 @@ Frontend Developer that building modern and user-friendly web applications.
 - Prisma
 - Node.js (learning backend)
 
-🚀 Currently working on fullstack projects.
-
-📍 Based in Norway  
-🥋 BJJ practitioner  
-🌍 Languages: Polish, English, Norwegian
+Based in Norway   
+Languages: Polish, English, Norwegian
 
 
