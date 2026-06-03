@@ -12,5 +12,5 @@ I deal with:
 - Prisma
 - Node.js (learning backend)
 
-## **Based in Norway**   
-## **Languages:** 🇵🇱 | 🇬🇧 | 🇳🇴
+## Based in Norway   
+## Languages: 🇵🇱 | 🇬🇧 | 🇳🇴
