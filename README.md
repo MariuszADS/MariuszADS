@@ -14,5 +14,4 @@ I deal with:
 
 **Based in Norway**   
 **Languages:** 🇵🇱  , 🇬🇧 , 🇳🇴
-
-🇵🇱
+🇵🇱:
