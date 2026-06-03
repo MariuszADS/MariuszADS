@@ -12,6 +12,6 @@ I deal with:
 - Node.js (learning backend)
 
 Based in Norway   
-Languages: Polish, English, Norwegian
+Languages: Polish |  English | Norwegian
 
 
