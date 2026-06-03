@@ -1,6 +1,7 @@
 # Hi there, I'm Kacper
 # [Projects](https://kacper-bak.dev/)
 Frontend Developer that building web apps.
+
 Currently working on fullstack projects.
 
 I deal with:
@@ -11,7 +12,7 @@ I deal with:
 - Prisma
 - Node.js (learning backend)
 
-Based in Norway   
-Languages: **Polish** |  English | Norwegian
+**Based in Norway**   
+**Languages:** Polish |  English | Norwegian
 
 
