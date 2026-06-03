@@ -13,6 +13,6 @@ I deal with:
 - Node.js (learning backend)
 
 **Based in Norway**   
-**Languages:** 🇵🇱 |  🇬🇧 | 🇳🇴
+**Languages:** 🇵🇱  , 🇬🇧 , 🇳🇴
 
 🇵🇱
