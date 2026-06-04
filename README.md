@@ -10,7 +10,8 @@ I deal with:
 - JavaScript
 - Tailwind CSS
 - Prisma
-- Node.js (learning backend)
+- Node.js
+- Java SE (learning backend)
 
 ## Based in Norway   
 ## Languages: 🇵🇱 | 🇬🇧 | 🇳🇴
