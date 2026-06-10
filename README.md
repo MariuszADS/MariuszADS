@@ -12,7 +12,7 @@ I deal with:
 - Prisma
 - Node.js
 - Java SE (learning backend)
-- Phaser 4.0.0 (learning backend)
+- Phaser 4.0.0 (learning)
 
 ## Based in Norway   
 ## Languages: 🇵🇱 | 🇬🇧 | 🇳🇴
