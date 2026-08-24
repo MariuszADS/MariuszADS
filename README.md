@@ -11,7 +11,7 @@ I deal with:
 - Tailwind CSS
 - Prisma
 - Node.js
-- Java SE (learning backend)
+- PostgreSQL
 - Phaser 4.0.0 (basic)
 
 ## Based in Norway   
