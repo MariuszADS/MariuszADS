@@ -11,8 +11,7 @@ I deal with:
 - Tailwind CSS
 - Prisma
 - Node.js
-- PostgreSQL
-- Phaser 4.0.0 (basic)
+- SQL
 
 ## Based in Norway   
 ## Languages: 🇵🇱 | 🇬🇧 | 🇳🇴
