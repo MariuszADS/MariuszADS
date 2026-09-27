@@ -6,28 +6,22 @@
 
 Hi, I'm **Kacper Bąk** 👋
 
-I'm a **Software Developer** based in Norway, focused on building modern full-stack web applications with **React, TypeScript and Node.js**.
+I'm a **Software Developer** based in Norway, focused on building full-stack web applications with **React, TypeScript and Node.js**.
 
-My main interest is developing practical applications from frontend to backend — including REST APIs, databases, authentication, testing, containerization and deployment.
+I work across frontend, backend, databases, testing and deployment, with a focus on building practical and maintainable applications.
 
 ## What I Work With
 
-- **React and TypeScript** for frontend application development
-- **Node.js and Express** for backend development
-- Designing and building **REST APIs**
-- Working with **PostgreSQL** databases
-- Authentication using **JWT, refresh tokens and role-based access**
-- Building reusable and maintainable application architecture
-- Writing **unit, integration and end-to-end tests**
-- Containerizing applications with **Docker**
-- Working with **Linux** development environments
-- Using **Git and GitHub** for version control
-- Building **CI/CD pipelines with GitHub Actions**
-- Using **OpenAI tools** to support development, debugging and software engineering workflows
+- **React + TypeScript** for frontend development
+- **Node.js + Express** for backend APIs
+- **PostgreSQL** and SQL
+- **JWT authentication** and role-based access
+- **Testing** with Jest, React Testing Library and Playwright
+- **Docker, Linux and Git**
+- **CI/CD** with GitHub Actions
+- **OpenAI-assisted development**
 
-I'm particularly interested in understanding the complete software development process — not only building user interfaces, but also designing APIs, working with databases, testing applications and preparing them for deployment.
-
-My main programming stack started with **JavaScript and React**, but over time I have expanded toward **TypeScript, backend development, PostgreSQL, testing and DevOps tooling**.
+My main stack started with **JavaScript and React**, and has gradually expanded toward **TypeScript, backend development, PostgreSQL, testing and DevOps tooling**.
 
 ---
 
@@ -56,7 +50,7 @@ My main programming stack started with **JavaScript and React**, but over time I
 
 ---
 
-## AI & Tools
+## AI-Assisted Development
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -66,6 +60,7 @@ My main programming stack started with **JavaScript and React**, but over time I
 
 I'm currently strengthening my knowledge in:
 
+- **Java**
 - Advanced **TypeScript**
 - Backend architecture
 - REST API design
@@ -75,7 +70,6 @@ I'm currently strengthening my knowledge in:
 - CI/CD
 - Application architecture
 - Production-ready development practices
-- Java
 
 ---
 
@@ -85,6 +79,6 @@ I'm currently strengthening my knowledge in:
 
 🇳🇴 Based in **Norway**
 
-💻 Focused on **Frontend / Full-Stack / Software Development**
+💻 Focused on **Frontend & Full-Stack Development**
 
 🌐 Portfolio: **https://kacper-bak.dev/**
