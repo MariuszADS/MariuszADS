@@ -75,6 +75,7 @@ I'm currently strengthening my knowledge in:
 - CI/CD
 - Application architecture
 - Production-ready development practices
+- Java
 
 ---
 
