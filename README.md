@@ -6,7 +6,7 @@
 
 Hi, I'm **Kacper Bąk** 👋
 
-I'm a **Software Developer** based in Norway, focused on building full-stack web applications with **React, TypeScript and Node.js**.
+I'm a **Software Developer** , focused on building full-stack web applications with **React, TypeScript and Node.js**.
 
 I work across frontend, backend, databases, testing and deployment, with a focus on building practical and maintainable applications.
 
@@ -76,9 +76,5 @@ I'm currently strengthening my knowledge in:
 ## About Me
 
 🎓 Engineer's degree in **Computer Science / Web Development**
-
-🇳🇴 Based in **Norway**
-
-💻 Focused on **Frontend & Full-Stack Development**
 
 🌐 Portfolio: **https://kacper-bak.dev/**
