@@ -17,7 +17,7 @@ I work across frontend, backend, databases, testing and deployment, with a focus
 - **PostgreSQL** and SQL
 - **JWT authentication** and role-based access
 - **Testing** with Jest, React Testing Library and Playwright
-- **Docker, Linux and Git**
+- **Linux and Git**
 - **CI/CD** with GitHub Actions
 - **OpenAI-assisted development**
 
@@ -34,7 +34,6 @@ My main stack started with **JavaScript and React**, and has gradually expanded 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
