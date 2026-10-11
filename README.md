@@ -74,6 +74,4 @@ I'm currently strengthening my knowledge in:
 
 ## About Me
 
-🎓 Engineer's degree in **Computer Science / Web Development**
-
 🌐 Portfolio: **https://kacper-bak.dev/**
