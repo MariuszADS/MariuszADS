@@ -11,7 +11,6 @@
 - **Testing** with Jest, React Testing Library and Playwright
 - **Linux and Git**
 - **CI/CD** with GitHub Actions
-- **OpenAI-assisted development**
   
 ---
 
