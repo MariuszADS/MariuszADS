@@ -2,14 +2,6 @@
 
 ### Software Developer
 
-**React · TypeScript · Node.js · PostgreSQL**
-
-Hi, I'm **Kacper Bąk** 👋
-
-I'm a **Software Developer** , focused on building full-stack web applications with **React, TypeScript and Node.js**.
-
-I work across frontend, backend, databases, testing and deployment, with a focus on building practical and maintainable applications.
-
 ## What I Work With
 
 - **React + TypeScript** for frontend development
@@ -20,9 +12,7 @@ I work across frontend, backend, databases, testing and deployment, with a focus
 - **Linux and Git**
 - **CI/CD** with GitHub Actions
 - **OpenAI-assisted development**
-
-My main stack started with **JavaScript and React**, and has gradually expanded toward **TypeScript, backend development, PostgreSQL, testing and DevOps tooling**.
-
+  
 ---
 
 ## Tech Stack
@@ -46,29 +36,6 @@ My main stack started with **JavaScript and React**, and has gradually expanded 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
----
-
-## AI-Assisted Development
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## Currently Improving
-
-I'm currently strengthening my knowledge in:
-
-- **Java**
-- Advanced **TypeScript**
-- Backend architecture
-- REST API design
-- PostgreSQL / SQL
-- Automated testing
-- Docker
-- CI/CD
-- Application architecture
-- Production-ready development practices
 
 ---
 
