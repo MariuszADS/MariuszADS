@@ -4,13 +4,13 @@
 
 ## What I Work With
 
-- **React + TypeScript** for frontend development
-- **Node.js + Express** for backend APIs
-- **PostgreSQL** and SQL
-- **JWT authentication** and role-based access
-- **Testing** with Jest, React Testing Library and Playwright
-- **Linux and Git**
-- **CI/CD** with GitHub Actions
+- **React + TypeScript** 
+- **Node.js + Express**
+- **PostgreSQL** 
+- **JWT authentication** 
+- **Linux**
+- **CI/CD**
+- **Java**
   
 ---
 
